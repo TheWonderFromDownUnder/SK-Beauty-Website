@@ -12,6 +12,7 @@
     "@angular/router": "^12.2.0",
     "@uirouter/angularjs": "1.0.15",
     "angular": "1.6.9",
+    "ng-image-slider": "^2.8.0",
     "rxjs": "^6.5.3 || ^7.0.0",
     "zone.js": "~0.11.4"
   }
