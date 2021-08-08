@@ -1,0 +1,14 @@
+function AboutConfig($stateProvider) {
+  'ngInject';
+
+  $stateProvider
+  .state('AboutConfig', {
+    url: '',
+    controller: 'AboutCtrl',
+    controllerAs: '$ctrl',
+    templateUrl: 'about/about.html'
+  });
+
+};
+
+export default AboutConfig;
