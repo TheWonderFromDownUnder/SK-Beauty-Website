@@ -2,7 +2,7 @@ function AboutConfig($stateProvider) {
   'ngInject';
 
   $stateProvider
-  .state('AboutConfig', {
+  .state('about', {
     url: '',
     controller: 'AboutCtrl',
     controllerAs: '$ctrl',
